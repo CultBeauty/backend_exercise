@@ -11,8 +11,8 @@ Please **do not** fork this repository, because that will make your solution vis
 
 Your solution must work with the following platforms (depending on your language of choice):
 
-  * PHP `5.6`
-  * NodeJS `8.1`
+  * PHP `7.0`
+  * NodeJS `8.9`
   * Scala `2.12` and Oracle JDK `8`
 
 It will be tested on Ubuntu `14.04`, but that should make no difference to your solution (any Linux distro will do).
